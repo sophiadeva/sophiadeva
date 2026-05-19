@@ -8,7 +8,7 @@ management through optimized **ETL** processes, stored procedures, and query tun
 enhancing reporting capabilities with write-back functionality. Strong background in advanced data modeling, resolving complex reporting issues, and 
 improving data quality. 
 
-Currently Learning **Python** for Data Engineering & Visualisation.
+Currently Learning **Statistics** for Data Forecasting and Analysis.
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNqM3hmMGFybnk0a21ybmRzMWJrZGZlNXR2Ym1mcmk5cDR2MnZjYSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/LMcB8XospGZO8UQq87/giphy.gif" width="600" alt="Coding Girl"/>
