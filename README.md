@@ -6,7 +6,7 @@
 Experienced Data Analyst with 5+ years of expertise in end-to-end **Power BI** reporting, automated data pipelines using **Azure Data Factory**, and **SQL database** 
 management through optimized **ETL** processes, stored procedures, and query tuning. Skilled in developing **client-ready** dashboards, integrating **REST APIs**, and 
 enhancing reporting capabilities with write-back functionality. Strong background in advanced data modeling, resolving complex reporting issues, and 
-improving data quality. 
+improving data quality.Recently expanded expertise in Python, Pandas, NumPy, Matplotlib API for data analysis and automation. 
 
 Currently Learning **Statistics** for Data Forecasting and Analysis.
 
