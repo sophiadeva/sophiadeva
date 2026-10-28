@@ -29,6 +29,7 @@ improving data quality.Recently expanded expertise in Python, Pandas, NumPy, Mat
   <img src="https://img.shields.io/badge/Python-Data%20Engineering-0A9EDC?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/ServiceNow-Platform-darkgreen?style=for-the-badge&logo=servicenow" />
   <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman" />
+ <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Analytics-blue?style=for-the-badge&logo=microsoftfabric" />
 </p>
 
 ## 📫 **Connect with Me**
